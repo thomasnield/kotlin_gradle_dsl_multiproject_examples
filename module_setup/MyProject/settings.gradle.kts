@@ -1,0 +1,2 @@
+include(":ModuleA",":ModuleB")
+
